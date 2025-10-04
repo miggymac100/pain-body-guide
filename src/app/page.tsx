@@ -17,7 +17,7 @@ export default function Home() {
               </span>
             </h1>
             <p className="mx-auto mb-8 max-w-2xl text-lg text-gray-600 md:text-xl">
-              Ever get extremely frustrated, annoyed or angry with something in your life? 
+              Ever get extremely frustrated, annoyed or angry with something or someone in your life? 
               Let's explore the "pain body" a part of you that actually isn't YOU.
             </p>
           </div>
