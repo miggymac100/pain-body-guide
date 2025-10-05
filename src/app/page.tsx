@@ -11,14 +11,14 @@ export default function Home() {
         <div className="container mx-auto max-w-6xl">
           <div className="text-center">
             <h1 className="mb-6 text-5xl font-bold tracking-tight text-gray-900 md:text-7xl">
-              Understanding the{" "}
+              Having negative thoughts? Understanding the{" "}
               <span className="bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
                 Pain Body
               </span>
             </h1>
             <p className="mx-auto mb-8 max-w-2xl text-lg text-gray-600 md:text-xl">
               Ever get extremely frustrated, annoyed or angry with something or someone in your life? 
-              Let's explore the "pain body" a part of you that actually isn't YOU.
+              Let's explore the "pain body" a part of you that actually IS NOT YOU.
             </p>
           </div>
 
